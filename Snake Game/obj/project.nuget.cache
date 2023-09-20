@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qM5w9FCsdTmwanOr+dtgwLVMpq/8kst6znVD2Ge46AR6vfdV1qtLr412LOqooT5woiwoxuwZzBab2FKxvq2p9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS Vivobook\\Desktop\\Snake Game\\Snake Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS Vivobook\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

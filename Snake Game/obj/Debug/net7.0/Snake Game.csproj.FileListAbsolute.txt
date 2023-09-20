@@ -1,0 +1,17 @@
+C:\Users\ASUS Vivobook\Desktop\Snake Game\bin\Debug\net7.0\Snake Game.exe
+C:\Users\ASUS Vivobook\Desktop\Snake Game\bin\Debug\net7.0\Snake Game.deps.json
+C:\Users\ASUS Vivobook\Desktop\Snake Game\bin\Debug\net7.0\Snake Game.runtimeconfig.json
+C:\Users\ASUS Vivobook\Desktop\Snake Game\bin\Debug\net7.0\Snake Game.dll
+C:\Users\ASUS Vivobook\Desktop\Snake Game\bin\Debug\net7.0\Snake Game.pdb
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\Snake Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\Snake Game.AssemblyInfoInputs.cache
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\Snake Game.AssemblyInfo.cs
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\Snake Game.dll
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\refint\Snake Game.dll
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\Snake Game.pdb
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\Snake Game.genruntimeconfig.cache
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\ref\Snake Game.dll
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\Snake Game.csproj.AssemblyReference.cache
+C:\Users\ASUS Vivobook\Desktop\Snake Game\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ASUS Vivobook\Desktop\Snake Game\obj\Debug\net7.0\Snake Game.csproj.CopyComplete
